@@ -1,0 +1,9 @@
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\bin\Debug\Calcolator.exe.config
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\bin\Debug\Calcolator.exe
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\bin\Debug\Calcolator.pdb
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\obj\Debug\Calcolator.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\obj\Debug\Calcolator.Properties.Resources.resources
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\obj\Debug\Calcolator.csproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\obj\Debug\Calcolator.exe
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\obj\Debug\Calcolator.pdb
+C:\Users\Sony\Desktop\Calcolator\Calcolator\Calcolator\obj\Debug\Calcolator.Int_Calculator.resources
